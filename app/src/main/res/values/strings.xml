@@ -1,12 +1,24 @@
 <resources>
     <string name="app_name">Mood Calendar</string>
 
+    <!--Some sort of navbar somewhere, idk-->
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
+    <!--Home Screen-->
     <string name="main_title">Mood Calendar</string>
     <string name="menu_button_add">Add Data</string>
     <string name="menu_button_view">View Data</string>
     <string name="menu_button_stats">View Statistics</string>
+
+    <!--Add-->
+
+    <!--View-->
+    <string name="title_activity_view_calendar">Past Data</string>
+
+
+
+    <!--Stats-->
+
 </resources>
