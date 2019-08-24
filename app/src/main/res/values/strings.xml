@@ -13,11 +13,30 @@
     <string name="menu_button_stats">View Statistics</string>
 
     <!--Add-->
+    <string name="title_activity_add_data">Add Data</string>
+
+    <string name="radioHappinessLabel">Happiness:</string>
+    <string name="radioEnergyLabel">Energy:</string>
+    <string name="radioSuccessLabel">Success:</string>
+
+    <string name="radioHappiness1">Low</string>
+    <string name="radioHappiness2">Average</string>
+    <string name="radioHappiness3">High</string>
+
+    <string name="radioEnergy1">Low</string>
+    <string name="radioEnergy2">Average</string>
+    <string name="radioEnergy3">High</string>
+
+    <string name="radioSuccess1">N/A</string>
+    <string name="radioSuccess2">Small</string>
+    <string name="radioSuccess3">Large</string>
+
+    <string name="submitData">Enter</string>
+
+
 
     <!--View-->
     <string name="title_activity_view_calendar">Past Data</string>
-
-
 
     <!--Stats-->
 

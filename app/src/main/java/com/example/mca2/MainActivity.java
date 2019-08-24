@@ -16,11 +16,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /** Called when Add Data button is clicked
-     *  TODO: Open Add Data activity
+     *  Opens Add Data activity
      * @param view
      */
     public void openScreenAdd(View view){
-
+        Intent intent = new Intent(this, AddData.class);
+        startActivity(intent);
     }
 
     /** Called when View Data button is clicked

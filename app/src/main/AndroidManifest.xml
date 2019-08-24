@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".AddData"
+            android:label="@string/title_activity_add_data"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.mca2.MainActivity" />
+        </activity>
+        <activity
             android:name=".ViewCalendar"
             android:label="@string/title_activity_view_calendar"
             android:parentActivityName=".MainActivity"
