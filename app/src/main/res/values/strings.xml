@@ -20,19 +20,22 @@
     <string name="radioSuccessLabel">Success:</string>
 
     <string name="radioHappiness1">Low</string>
-    <string name="radioHappiness2">Average</string>
+    <string name="radioHappiness2">Normal</string>
     <string name="radioHappiness3">High</string>
 
     <string name="radioEnergy1">Low</string>
-    <string name="radioEnergy2">Average</string>
+    <string name="radioEnergy2">Normal</string>
     <string name="radioEnergy3">High</string>
 
-    <string name="radioSuccess1">N/A</string>
+    <string name="radioSuccess1">Routine</string>
     <string name="radioSuccess2">Small</string>
     <string name="radioSuccess3">Large</string>
 
     <string name="submitData">Enter</string>
 
+    <!--File management-->
+    <string name="folderName">MCa2Data</string>
+    <string name="fileName">Data.csv</string>
 
 
     <!--View-->
